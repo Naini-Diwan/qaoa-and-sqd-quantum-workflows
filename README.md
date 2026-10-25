@@ -66,5 +66,5 @@ An IBM Quantum Platform account (open plan) is required for real-hardware execut
 ## Author's Note
 If you have any questions/suggestions regarding this work, feel free to contact me.
 
-Regards,
+Regards,\
 Naini Diwan
